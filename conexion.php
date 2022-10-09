@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <title>My First Web Page</title>
+</head>
+<body>
+  
 <?php
 
 $servername = "db4free.net"; // Nombre/IP del servidor
@@ -19,3 +28,9 @@ $con = mysqli_connect($servername, $username, $password, $database);
 
 
 ?>
+
+
+</body>
+
+</html>
+
